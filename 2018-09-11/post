@@ -1,0 +1,7 @@
+Faz um ano que uso o Jupyter notebook (jupyter.org/) como minha IDE principal para análise de dados. O notebook contribui enormemente para a ciência/análise de dados por ser uma ferramente que permite a reprodutibilidade, compartilhamento e visualização muito fácil ao incorporar código (em Python, R, Julia e outras 50 linguagens de programação), Markdown, LaTeX e gráficos/plotagens.
+
+Um dos principais momentos em que a utilização do notebook não é muito produtiva foi em um ambiente de desenvolvimento em equipe com versionamento, pois os diff da extensão .ipynb não são muito significativos
+
+Parece que a biblioteca jupytext (https://lnkd.in/eQmqtK3) veio completar esta lacuna: é possível linkar um notebook .ipynb a um script .py (ou .r ou .jl) editável na sua IDE favorita (vi, Emacs, VS Code, Sublime, Atom etc.), basta atualizar o browser para que o seu notebook sincronize com o código do script. Instalação muito fácil (pip install jupytext) e configuração (basta apendar uma variável ao seu Jupyter config e incluir o jupytext_format no metadata do seu notebook)
+
+
