@@ -1,25 +1,30 @@
-Ups:
+------------------------------------------------------------------------------------------
+-- NEWS, UPS & DOWNS OF THE DATA SCIENCE WORLD --
+------------------------------------------------------------------------------------------
 
-* JupyterCon happened between Aug 21-24, all videos available at: https://www.youtube.com/watch?v=xuNj5paMuow&list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi
 
-* Google open sourced Dopamine, a framework for reinforcement learning, source code available at: https://github.com/google/dopamine
-
-* GitHub new code search using natural language processings: https://githubengineering.com/towards-natural-language-semantic-code-search/
-
-* http://news.mit.edu/2018/abdul-latif-jameel-clinic-machine-learning-health-0917
-
-* Is "data scientist" the new "programmer"? http://blogs.harvard.edu/philg/2018/09/18/is-data-scientist-the-new-programmer/
-
-* NLSQL: requests from a database using natural language: https://www.nlsql.com/
-
-* Kai-Fu Lee talks about AI, jobs, and the human heart: https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/former-head-of-google-china-foresees-an-ai-crisis
-
-* Sublime merge, Git client from the makers of Sublime Text: https://www.sublimemerge.com/
+Software releases:
 
 * OpenCV 4.0-alpha: https://opencv.org/opencv-4-0-0-alpha.html
 
-* Deep learning frameworks scores in 2018: https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607ddf297a
+* PostgreSQL 11 Beta 4 Released: https://www.postgresql.org/about/news/1890/
 
-Upcoming events:
+* Sublime merge, Git client from the makers of Sublime Text: https://www.sublimemerge.com/
 
-* PyData Córdoba Sep 29-30: https://pydata.org/cordoba2018/
+
+Ups:
+
+* JupyterCon NY, videos available at: https://www.youtube.com/watch?v=xuNj5paMuow&list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi
+
+* Google open sourced Dopamine, a framework for reinforcement learning: https://github.com/google/dopamine
+
+* Abdul Latif Jameel Clinic for Machine Learning in Health at MIT aims to revolutionize disease prevention, detection, and treatment: http://news.mit.edu/2018/abdul-latif-jameel-clinic-machine-learning-health-0917
+
+* Deep learning framework power scores in 2018: https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607ddf297a
+
+
+Downs:
+
+* AI Company Accused of Using Humans to Fake Its AI: https://www.sixthtone.com/news/1002956/ai-company-accused-of-using-humans-to-fake-its-ai-
+
+* How to make a racist AI without really trying: http://blog.conceptnet.io/posts/2017/how-to-make-a-racist-ai-without-really-trying/
