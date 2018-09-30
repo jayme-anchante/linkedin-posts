@@ -1,15 +1,35 @@
-News
+👨‍🔬📰🗞🎯📑👨‍💻📫🔖👀🌐🔀🎯📱💻📨🆕🔬🌐🔭👩‍💻🔀📶✔🆒👩‍🔬👀
 
-* Open Machine Learning Course: https://mlcourse.ai/
+-- NEWS, UPS & DOWNS OF THE DATA SCIENCE WORLD --
 
-* Multi-armed bandit Python code from scratch: http://peterroelants.github.io/posts/MultiArmBandit/
+👨‍🔬📰🗞🎯📑👨‍💻📫🔖👀🌐🔀🎯📱💻📨🆕🔬🌐🔭👩‍💻🔀📶✔🆒👩‍🔬👀
+
 
 Software realeases:
 
+
+* IPython 7.0: https://blog.jupyter.org/ipython-7-0-async-repl-a35ce050f7f7
+
+
 * Java 11 released: http://jdk.java.net/11
+
 
 * PostGIS 2.5.0: http://postgis.net/2018/09/23/postgis-2.5.0/
 
-* Downs:
+
+Ups:
+
+
+* Google Colab quitely turn on TPU v2 for free to everyone: http://forums.fast.ai/t/google-colab-quitely-turn-on-tpu-v2-for-free-to-everyone/23329
+
+
+* Open Machine Learning Course: https://mlcourse.ai/
+
+
+* Multi-armed bandit Python code from scratch: http://peterroelants.github.io/posts/MultiArmBandit/
+
+
+Downs:
+
 
 * Chrome 69 privacy issues: https://blog.lukaszolejnik.com/am-i-logged-in-or-not-gdpr-case-study-on-the-example-of-chrome-browser-change/
