@@ -1,0 +1,5 @@
+-- REDES NEURAIS INTERPRETÁVEIS --
+
+Na última aula de Aprendizado de Máquina com o professor @Luiz Eduardo Soares de Oliveira, falamos sobre Perceptron e SVM (Support Vector Machines).
+
+O Perceptron é a primeira e mais primitiva estrutura de rede neural, tendo apenas uma camada oculta com uma função de ativação do tipo hardlim. Dados os pesos iniciais.
