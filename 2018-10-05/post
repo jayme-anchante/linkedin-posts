@@ -1,5 +1,32 @@
+
 -- REDES NEURAIS INTERPRETÁVEIS --
 
-Na última aula de Aprendizado de Máquina com o professor @Luiz Eduardo Soares de Oliveira, falamos sobre Perceptron e SVM (Support Vector Machines).
+Na última aula com Luiz Eduardo Soares de Oliveira aprendemos sobre o Perceptron
 
-O Perceptron é a primeira e mais primitiva estrutura de rede neural, tendo apenas uma camada oculta com uma função de ativação do tipo hardlim. Dados os pesos iniciais.
+O Perceptron é um algoritmo de aprendizado supervisionado de classificação binária (se um input pertence ou não a uma classe). É a primeira e mais primitiva estrutura de rede neural, sendo desenvolvido em 1957.
+
+
+Supondo uma função de ativação do tipo hardlim com f(x)=1 se x>=0, e f(x)=0 se x<0 e pesos iniciais sendo W0=(0,0) com viés b0=0, podemos calcular os seguintes passos (dados na imagem):
+
+
+1a linha (x1):
+y=hardlim([0,0] * [2,2] + 0 = hardlim(0) = 1
+Como a label era 0, o erro é a label menos a previsão. Erro=0-1=-1
+Com erro != 0, atualiza-se os pesos W1 = W0 + e*x1 = [0,0] + (-1 * [2,2]) = [-2,-2]
+Atualiza-se o bias b1 = b0 + Erro = 0 -1 = -1
+
+2a linha (x2):
+y=hardlim([-2,-2] * [-2,-2] -1 = hardlim(7) = 1
+Erro é zero, peso e bias não atualizam
+
+3a linha (x3):
+y=hardlim([-2,-2] * [-2,2] -1 = hardlim(-1) = 0
+Erro é zero, peso e bias não atualizam
+
+4a linha (x4)
+y=hardlim([-2,-2] * [-1,1] -1 = hardlim(-1) = 0
+Erro = label - previsão = 1 - 0 = 1
+W2 = W1 + e*x4 = [-2,-2] + 1*[-1,1] = [-3,3]
+b2 = b1 + e = -1 + 1 = 0
+
+Depois de 5 iterações, o modelo convergirá aos melhores parâmetros W*=[-1,-3] e b*=3! 🤖🎉🎉
