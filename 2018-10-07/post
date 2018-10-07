@@ -1,29 +1,13 @@
-👨‍🔬📰🗞🎯📑👨‍💻📫🔖👀🌐🔀🎯📱💻📨🆕🔬🌐🔭👩‍💻🔀📶✔🆒👩‍🔬👀
+📰🎯🗞👨🌐🎯📨🆕🔬🌐💻
 
--- NEWS, UPS & DOWNS OF THE DATA SCIENCE WORLD --
+-- PyTorch 1.0.0 --
 
-👨‍🔬📰🗞🎯📑👨‍💻📫🔖👀🌐🔀🎯📱💻📨🆕🔬🌐🔭👩‍💻🔀📶✔🆒👩‍🔬👀
+📰🎯🗞👨🌐🎯📨🆕🔬🌐💻
 
+Since Pytorch 1.0 release earlier this year much has been discussed about Facebook's pytorch vs Google's tensorflow (https://hub.packtpub.com/dl-wars-pytorch-vs-tensorflow/).
 
-Software realeases:
+This week, Facebook announced a deeper support from Amazon AWS, Google GCLoud and Microsoft Azure.  For example, Amazon SageMaker, AWS’s fully managed platform for training and deploying machine learning models at scale, now provides preconfigured environments for PyTorch 1.0, which include rich capabilities such as automatic model tuning. Google Cloud Platform’s Deep Learning VM has a new VM image with PyTorch 1.0 that comes with NVIDIA drivers and tutorials preinstalled. Azure Machine Learning service now allows developers to seamlessly move from training PyTorch models on a local machine to scaling out on the Azure cloud. (source: https://code.fb.com/ai-research/facebook-accelerates-ai-development-with-new-partners-and-production-capabilities-for-pytorch-1-0/)
 
+Below a "Hello World!" example with pytorch using the Iris dataset. The model got an amazing 98% score on the test set!
 
-* PyTorch 1.0: https://code.fb.com/ai-research/facebook-accelerates-ai-development-with-new-partners-and-production-capabilities-for-pytorch-1-0/
-
-* fastai v1: http://www.fast.ai/2018/10/02/fastai-ai/
-
-* PyTorch across GCloud: https://cloud.google.com/blog/products/ai-machine-learning/introducing-pytorch-across-google-cloud
-
-
-Ups:
-
-
-* For AI, translation is about more than language: http://cachestocaches.com/2018/9/ai-translation-more-language/
-
-* Transformer: A Novel Neural Network Architecture for Language Understanding: https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
-
-
-Downs:
-
-
-* 
+#pytorch #deeplearning
