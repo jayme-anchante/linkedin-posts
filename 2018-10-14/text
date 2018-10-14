@@ -4,14 +4,15 @@ CatBoost (https://catboost.ai/) is a fantastic machine learning framework open s
 
 It is based on gradient boosting over decision trees, just like LightGBM (https://github.com/Microsoft/LightGBM), XGBoost (https://github.com/dmlc/xgboost), scikit-learn's Gradient Boosting (http://scikit-learn.org/stable/modules/ensemble.html#gradient-boosting)
 
-Its amazing features includes:
+Its features includes:
 
 * Support for both numerical and categorical features
 * Fast GPU and multi-GPU support for training
 * Data visualization tools included
 
-
 PyData presentation: https://www.youtube.com/watch?v=8o0e-r0B5xQ
 
 Reference paper:
 Anna Veronika Dorogush, Vasily Ershov, Andrey Gulin "CatBoost: gradient boosting with categorical features support". Workshop on ML Systems at NIPS 2017
+
+👍👍👍 Liked the cute cat? Hit the LIKE button! 👍👍👍
