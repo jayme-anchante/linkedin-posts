@@ -1,0 +1,22 @@
+🤖 😱 KRYPTONITA DO CIENTISTA DE DADOS 🤖 😱
+
+
+
+
+o PDF...
+
+
+PDF é um formato de arquivo extremamente útil e difundido, que pretende manter a formatação do documento e ser independente de plataforma, hardware ou software
+
+
+O problema é quando o PDF é utilizado da maneira incorreta, por exemplo, para armazenar dados que serão utilizados por outras pessoas, processos, pipelines e ETL de dados. Eu mesmo já tive que passar dados de centenas de PDFs da EMATER/RS para uma planilha para poder escrever um artigo sobre o preço do boi gordo...
+
+
+(Super) Cientistas de dados do mundo não temam mais, a solução chegou para nos salvar também desta tarefa mundana de parsear PDFs com a biblioteca camelot-py (https://camelot-py.readthedocs.io/en/master/), extremamente simples, intuitiva e rápida. A instalação é a padrão - pip install camelot-py - depois de importar camelot, existe a função camelot.read_pdf('foo.pdf') para ler seu PDF, as tabelas ficarão armazenadas em um objeto do tipo lista, podendo ser acessível com um laço ou individualmente como tabelas[0], tabelas[1], muito fácil mesmo!
+
+
+Curtiu esta biblioteca, deixe seu 👍👍👍
+
+Já paseou um PDF? Conte sua experiência nos comentários ⬇⬇⬇
+
+Compartilhe para ajudar seus colegas Cientistas de dados 🔗↪
