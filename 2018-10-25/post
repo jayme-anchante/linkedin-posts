@@ -1,0 +1,15 @@
+🤖 🤖  INTERPRETABLE NEURAL NETS 🤖 🤖
+
+Ever wondered what a neural network is composed of?? 🤔🤔🤔
+
+A neural networks is a collection of nodes (circles in the plot). Each connection (arrows in the plot) can transmit a signal from one node to another. A node that receives a signal can process it and then signal additional nodes connected to it.
+
+In Deep Learning, the signal is a real number, also known as weights (numbers in black in the plot) and biases (numbers in blue in the plot). The node is an artificial neuron - something like the neurons in our brains. Neurons are typically aggregated into layers (a column of neurons in the plot)
+
+x1, x2 and x3 are the inputs to our artificial neural network - composed of 3 layers - and y is the output
+
+BTW, I used the neuralnet R package for the plot and the mtcars data for feeding it :)
+
+NN are less threatening? Enjoyed the explanation? Give it a 👍👍👍
+Any thoughts, doubts, experiences with NN, leave a comment ⬇⬇⬇
+Share it so others can learn neural networks too 🔗↪
