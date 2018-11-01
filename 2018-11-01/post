@@ -1,0 +1,24 @@
+☕☕ Café com Data Science?? ☕☕
+
+Loading…
+█▒▒▒▒▒▒▒▒▒
+
+Frequentemente, cientistas de dados deixam rodando processos, transformações, modelos muito pesados que podem demorar de alguns minutos a horas ou dias, depois de iniciados sempre fica a pergunta: será que dá tempo de tomar um cafézinho neste meio tempo?
+
+Uma biblioteca em Python muito simples que pode ajudar a dar uma pista de quanto tempo um laço (loop) irá demorar é tqdm (https://github.com/tqdm/tqdm): uma barra de carregamento rápida, extensível para Python e linha de comando.
+
+Apenas encapsule um iterador com tqdm(iterador) e pronto:
+
+>
+>    from tqdm import tqdm
+>    for i in rqdm(range(100)):
+>
+
+Curtiu a biblioteca? Então deixe seu 👍👍👍 e faça sua pausa tranquilo
+Comenta aqui qual foi o job mais demorado que você já executou? ⬇⬇⬇
+Compartilhe para que mais cientistas de dados possam tomar seu café sossegados 🔗↪↪
+
+
+ps: faz anos que eu não tomo café, só chimarrão! Deveria voltar a tomar? 🤔
+
+ ██████████████]50%
