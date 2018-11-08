@@ -1,0 +1,9 @@
+🏳 💻 🆕 👀 🎯   Google vs Facebook   🏳 💻 🆕 👀 🎯
+
+Mais um capítulo da "guerra" entre Google e Facebook no mercado de Deep Learning: após 2 meses do Google abrir o código (open sourced) do seu framework de Reinforcement Learning chamdo Dopamine (https://github.com/google/dopamine), essa semana foi a vez do Facebook abrir o código do seu framework entitulado Horizon (https://github.com/facebookresearch/Horizon)
+
+Horizon foi construído em cima da linguagem Python 🐍 e do framework do Facebook PyTorch. Contém implementações de processamento de dados, engenharia de features, treinamento distribuído, avaliação de políticas contrafactuais. Entre os algoritmos figuram Deep Q-learning discreto e paramétrico, Deep Deterministic Policy Gradient (DDPG) e Soft Actor-Critic (SAC) 🤖🤖🤖
+
+Reinforcement Learning ou Aprendizagem por Reforço é uma área de Machine Learning que estuda como agentes em um ambiente maximizam alguma noção de recompensa 🏆. Ele difere do Aprendizado Supervisionado no sentido de que os dados de entrada e saída não são necessários e que ações subótimas não precisam necessariamente serem corrigidas
+
+E você, prefere os frameworks da Google ou do Facebook ou outros
