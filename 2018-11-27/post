@@ -1,0 +1,16 @@
+😱😱 Python environment management 🤔🤔
+
+At first thought, python installation seems pretty straightforward: download the binary ➡ install it ➡ start using python 😎 but things are a little more complicated 😢
+
+First, you need to decide which python distribution you want to download: from official python.org or a third-party distribution, maybe the most famous is Anaconda, but there are many others which can better suit your needs
+
+Second, which python version to download: python2 vs python3, if python3, then python3.5 or python3.6 vs python3.7 😕😕
+
+Finally, you need to decide how to isolate different projects: python ships with builtin venv module, but people usually use virtualenv or virtualenvwrapper. A somewhat "new" options is pipenv, which is a wrapper for pip and virtual environments. If you are using Anaconda, you can use conda to manage environments 😱😱😱
+
+Of course, you could also setup everything in a docker image (or other virtualization tool) to have proper OS reproducibility 😈😈👻👻
+
+I usually go for the miniconda distribution, with conda for managing environments and either pip or conda for package management
+
+How do you manage your python installation, environment and packages?
+tell me ⬇⬇ in the comments ⬇⬇
