@@ -1,0 +1,9 @@
+~~ 😱😱 GPU 😊😊 ~~
+
+Finalmente meu setup tá quase completo: agora com uma Nvidia GTX 1080 no desktop
+
+Acessando os recursos do desk pelo notebook thinkpad x200 com libreboot e trisquel 8 via ssh
+
+Notebook 100% software livre com desktop "totalmente" proprietário, grandes contradições não é mesmo Téo?
+
+Pergunta para os experts: na página oficial do tensorflow, eles falam que é compatível com CUDA 9, mas rapids é compatível com CUDA 9.2, será que tensorflow roda no CUDA mais recente (ou 9.2) também?
