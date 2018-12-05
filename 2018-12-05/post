@@ -1,0 +1,9 @@
+🖥🤖🤔   GPU, CUDA, tensorflow e rapidsai - the easy way  🖥🤖🤔
+
+Comecei a configurar o meu ambiente de trabalho com suporte para GPU, e como *normalmente* 😭 acontece enfrentei alguns probleminhas ao longo do percurso
+
+Entre a escolha das versões dos drivers da Nvidia, CUDA e bibliotecas, forma de instalação, configurações, compatibilidade
+
+Por isso estou deixando aqui um script com todos os comandos que eu utilizei pra dar boa 🔝👍 \o/
+
+https://github.com/jayme-anchante/GNU-Linux/blob/master/cuda
