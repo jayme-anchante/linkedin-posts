@@ -1,0 +1,19 @@
+~~ artigo sobre os fundamentos de Machine Learning ~~
+
+
+A Few Useful Things to Know about Machine Learning por Pedro Domingos (https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) é um artigo extremamente conciso, mas que traz os principais conceitos de Machine Learning de uma forma simples, com matemática leve, mas altamente técnico
+
+
+Ele traz um panorama sobre generalização, sobreajustamento, alta dimensionalidade, engenharia de características, ensemble e Navalha de Occam
+
+
+Algumas partes que me chamaram atenção
+
+
+"The most common mistake among machine learning beginners is to test on the training data and have the illusion of success": já aconteceu comigo (e quem nunca?), e vi acontecer mais de uma vez em ambiente profissional rsrs
+
+
+"First-timers are often surprised by how little time in a machine learning project is spent actually doing machine learning": rodar o modelo é "rapidinho", preparar os dados - limpeza, preprocessamento, engenharia de características - é que consome grande parte do tempo
+
+
+"As a rule of thumb, a dumb algorithm with lots and lots of data beats a clever one with modest amounts of it": não adianta o mais sofisticados algoritmo se você tem dados em pequena quantidade (e baixa qualidade)
