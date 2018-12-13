@@ -1,0 +1,23 @@
+~~ Stata + Jupyter ~~
+
+
+"Sofri" alguns anos com a IDE do Stata, alternando entre a janela principal e a de escrever o do-file, gráficos/helps popando novas janelas
+
+
+Mas parece que meus problemas acabaram 🎉🎉
+
+
+O projeto Jupyter ganhou recentemente um kernel nativo para Stata. Com uma instalação de Stata e de Python 3, basta instalar as dependências necessárias:
+
+
+$ pip3 install jupyter stata_kernel
+
+$ jupyter-notebook
+
+
+Bata criar um novo notebook com o kernel do Stata 💪
+
+📈📈📈📈
+
+
+repositório: https://github.com/kylebarron/stata_kernel
