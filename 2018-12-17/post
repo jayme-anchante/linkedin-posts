@@ -1,0 +1,11 @@
+😕😕🤷🤷   CONFUSED???   😕😕🤷🤷
+
+
+
+
+PyMC é uma biblioteca de matriz de confusão multi classe. Além de calcular a matriz de confusão (duh 🤦), ela calcula diversas métricas de performance
+
+
+Dá para ajustar hiperparâmetros utilizando uma das métricas, fazer aquele relatório para a gerência ou simplesmente admirar a performance do seu modelo
+
+repositório: https://github.com/sepandhaghighi/pycm
