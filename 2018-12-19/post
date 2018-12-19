@@ -1,0 +1,12 @@
+~~  você sabe o que é XAI?? ~~
+
+
+Explainable Artificial Intelligence é uma Inteligência Artificial cujas ações podem ser confiadas e compreendidas por humanos
+
+Contrasta com o conceito de "caixa preta": mesmo quem implementa e/ou usa certos algoritmos de Aprendizado de Máquina não consegue explicar por que ele chegou a uma certa decisão
+
+Muitos cientistas de dados defendem que há um trade-off entre acurácia e transparência: quanto mais complexo um algoritmo, maior a sua acurácia e menor a possibilidade de interpretação dele (famoso exemplo de regressão polinomial para explicar trade-off entre viés e variância, como em http://scott.fortmann-roe.com/docs/BiasVariance.html ou https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html)
+
+Um projeto do DARPA (Defense Advanced Research Projects Agency) objetiva produzir modelos do tipo "caixa de vidro" interpretáveis sem sacrificar a performance. Mais informações sobre o projeto podem ser encontradas em https://www.darpa.mil/program/explainable-artificial-intelligence
+
+Por fim, um artigo muito massa que mostra 3 bibliotecas que ajudam com a interpretação de modelos de aprendizado de máquina: https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608
