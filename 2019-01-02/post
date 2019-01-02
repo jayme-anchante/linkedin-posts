@@ -1,0 +1,11 @@
+~~ a game changer in AI ~~
+
+
+
+
+The Tsetlin Machine is a simple and versatile learning mechanism that uses Nash equilibria and propositional formulas that provide optimal pattern recognition accuracy.
+
+(Incredible) Main features: it always finds global optima, outperforms many models (neural nets, random forests, SVMs and others), the accuracy advantage increases with lack of data, it is less computationally intensive and highly interpretable
+
+arXiv article: https://arxiv.org/pdf/1804.01508
+code and dataset: https://github.com/cair/TsetlinMachine
