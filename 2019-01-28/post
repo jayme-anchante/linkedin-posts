@@ -1,3 +1,6 @@
 parameter optimization with tensorflow and tensorboard
 
 dataset: cat vs dogs kaggle competition by Microsoft; source: https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765
+tutorial by: Harrison
+
+obs: keras has an cuDNN optimed LSTM called tf.keras.layers.CuDNNLSTM. It was 10 times faster than regular tf.keras.layers.LSTM. Both ran on tensorflow-gpu on a GTX 1080
