@@ -1,0 +1,15 @@
+~~ This person doesn't exist ~~
+
+👨👨👨👨👩👩👩👩👩👨👨👩👩👩 🎨
+
+
+um site recentemente chegou aos top trends em redes sociais e sites de notícia: https://thispersondoesnotexist.com/
+
+
+Consiste em uma imagem com a foto de uma pessoa, até aí nada de mais, entretanto, esta imagem foi gerada por uma rede neural e esta pessoa não existe de verdade. O criador, Philip Wang, criou o site para mostrar a capacidade de uma classe de algoritmos chamada GAN - Generative Adversarial Networks. Nesse sistema, duas redes neurais com propósitos distintos "competem" entre si, a rede geradora tenta criar imagens falsas para enganar a outra rede, enquanto a rede discriminadora tenta diferenciar imagens genuínas (pertencentes a uma base de dados pré coletada) e imagens falsas criadas pela rede geradora
+
+
+Após o sucesso do thispersondoesnotexist, outras redes neurais similares foram criadas, mas em outros contextos: geração de currículos falsos (https://thisresumedoesnotexist.com/), geração de gatinhos falsos (https://thiscatdoesnotexist.com/), anúncio de imóvel falso (https://thisrentaldoesnotexist.com/), pergunta no stackoverflow falsa (https://stackroboflow.com/)
+
+
+Que outras aplicações você veria para redes GAN??
