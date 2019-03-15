@@ -1,0 +1,7 @@
+UPs 'n DOWNs of the week
+
+up: TinyTeX is awesome, lightweight and simple instructions to get it going, plus you can manage it from R
+
+down: IJulia is so hard to get working, environments created after it was installed failed, the local julia conda environment failed, various docker images failed...
+
+What were your UPs and DOWNs??
