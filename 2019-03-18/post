@@ -1,0 +1,14 @@
+~~ data scince, planning poker and the wisdom of the crowd ~~
+
+
+At a 1906 country fair in Plymouth, 800 people participated in a contest to estimate the weight of an ox. Francis Galton observed that the median guess (1207 pounds) near missed the true weight (1198 pounds)
+
+The wisdom of the crowd is the collective opinion of a group of individuals rather than that of a single expert
+
+The crowd usually outperforms the expert due to the elimination of random errors that affect each person's answer (if the individual judgments are independent/diverse)
+
+Planning poker is a technique for estimating the effort of software development. Estimates are only revealed after everyone chose their cards (to ensure independence)
+
+The estimation process is repeated until consensus is reached, however, estimates average at any round should make a better prediction than the estimate of the developer who is likely to own the deliverable
+
+To the scrum mastesr:  Arthur  |  Cassiano  |  Michele   |  Douglas
