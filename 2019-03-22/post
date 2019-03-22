@@ -1,0 +1,9 @@
+~~ impressões sobre o Ludwig da Uber ~~
+
+Em fevereiro de 2019 (https://eng.uber.com/introducing-ludwig/), a Uber abriu o código da plataforma Ludwig (https://uber.github.io/ludwig) uma plataforma para construção de modelos de aprendizado profundo com a promessa de não precisar escrever código. É construído em cima do tensorflow e é utilizado na Uber em diversas áreas. Prós e contras:
+
+Prós: extremamente simples, só precisa definir um arquivo YAML e colocar sua base de dados e o Ludwig cuida de todo resto; variedade, aceita uma grande gama de tipos de features, como numérico, categórico, texto, imagem e séries temporais, vários encoders, alvo multi objetivo; relatórios, produz uma série de métricas de performance, infinidade de gráficos
+
+Contras: falta métricas além de acurácia, como recall, precision e F1; não tem o ludwig-gpu no PyPI, tem que modificar o requirements.txt na mão; a documentação é bastante confusa, difícil de encontrar as coisas;
+
+Como nota final: todo o pré processamento dos dados, deixar a base no formato específico que o Ludwig aceita, balancear as classes e demais checks necessários antes de rodar um model qualquer que seja ficam a cargo do usuário, o Ludwig fica com a parte divertida :)
