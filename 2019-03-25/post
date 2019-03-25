@@ -1,0 +1,11 @@
+~~ Apresentação & Data Science ~~
+
+📈📈💻🎥🎥🎥👨🏻👩🏻💼📈📈💻📈📈💻
+
+Na última semana, tive que preparar uma apresentação para um projeto de IA, então pensei em utilizar uma ferramenta diferente do que estou acostumado (LibreOffice Impress, que por sinal é ótimo, além de ser software livre!)
+
+Procurei por algumas soluções que envolvêssemos Markdown, já conhecia a suíte de ferramentas suckless (https://suckless.org/), conjunto de programas minimalistas, talvez o mais famoso seja o st ou simple terminal, mas queria algo um pouco mais polido, foi aí que encontrei o Marp (https://yhatt.github.io/marp/):
+
+Um app Electron com dois painéis, na esquerda é possível escrever um Markdown com algumas features extras (para fazer um novo slide é só escrever "---") e na direita o slide é automaticamente renderizado, além disso é possível salvar em Markdown ou PDF
+
+E você, qual ferramenta utilizada/recomenda para apresentações?
