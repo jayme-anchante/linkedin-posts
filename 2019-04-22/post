@@ -1,0 +1,5 @@
+~~ (Py)Iodide ~~
+
+Semana retrasada, a Mozilla anunciou o seu projeto Iodide (https://hacks.mozilla.org/2019/03/iodide-an-experimental-tool-for-scientific-communicatiodide-for-scientific-communication-exploration-on-the-web/), uma ferramenta para escrever documentos utilizando tecnologias web (javscript, html, css) em um ambiente familiar para cientistas de dados, estilo Jupyter Notebook.
+
+Agora semana passada, a Mozilla lançou a PyIodide (https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/), criando uma interface Python (junto stack "padrão" de data science NumPy, SciPy, Pandas, Matplotlib) para o ecossistema Iodide. PyIodide é capaz de interagir com JavaScript e acessar as Web APIs e o DOM (a mágica foi feita utilizando WebAssembly)
