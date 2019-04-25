@@ -1,0 +1,7 @@
+~~  fklearn by Nubank  ~~
+
+Parabéns pra equipe de Data Science do Nubank pela biblioteca fklearn (https://github.com/nubank/fklearn), realmente uma iniciativa espetacular e um grande ganho para a comunidade 👏👏 
+
+Li toda a documentação e vi alguns trechos de código. Gostei bastante da parte de causalidade, realmente é uma área muito deficitária em Data Science, mas com tremenda importância para o negócio. Bastante interessante também são as validações temporais e espaciais, com um tratamento simples e robusto.
+
+Em geral, a API é uma série de abstrações de funções do scikit-learn (que aliás tem apenas uma menção por causa da inspiração do nome). @nubankers, eis minha duvida: por que usar fklearn e não scikit-learn?
