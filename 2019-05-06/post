@@ -1,0 +1,7 @@
+~~  🐼 🐼  Koalas   🐼🐼  ~~
+
+Koalas by databricks é o pandas no ecossitema da Apache, usando API compatível com pandas, promete ser o padrão para processamento multi-nó (aka Big Data), já que pandas é (praticamente) o padrão para processamente com um nó 
+
+Ansioso por instalar e utilizar o poder dos Koalas
+
+Repositório:  https://github.com/databricks/koalas
