@@ -1,0 +1,9 @@
+~~ um dos insights mais inovadores de feature engineering ~~
+
+Muitas vezes temos features como mês do ano, que contém informação temporal e cíclica. Algumas dos tratamentos mais usuais seriam encodar os meses (jan-1, fev-2 etc.) ou ainda binarizar a variável (criar doze ou onze colunas do tipo mês_Janeiro com entrada igual a 1 se for o mês de Janeiro ou 0, caso contrário).
+
+O problema é o seguinte: nenhuma das abordagens mostra que Janeiro está mais próximo de Dezembro que Abril, por exemplo.
+
+Uma solução seria transformar a variável mês em valores X-Y de um plano cartesiano nas bordas de um círculo. Ainda, se fosse levar em consideração a natureza cíclica de uma das features especificamente, uma transformada do tipo `sin(2*pi*x1/p)`, em que `x1` é o valor da feature em questão e `p` é a variável de período
+
+E você, que tipo de feature engineering faz com uma variável de tempo ou cíclica?
