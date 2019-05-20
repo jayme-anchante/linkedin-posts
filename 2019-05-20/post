@@ -1,0 +1,13 @@
+ ~~  Automatic Feature Engineering ~~
+
+
+I recently shared an innovative way of feature engineering cyclical features (https://www.linkedin.com/feed/update/urn:li:activity:6534828934415081472)
+
+Getting features from raw data is an art 🎨 , but as happens with everything, it can be automated at some exten 🤖🤖
+
+Taking this approach, the guys at Feature Labs (https://www.featurelabs.com/) open sourced Featuretools (https://www.featuretools.com/): a python framework for automatic feature engineering 💡💡
+
+It is easy to get started: define a bucket 🗑, dump all your tables (╯°□°)╯︵ ┻━┻ (aka pandas.DataFrame) with column type and identifiers and extract your features based on some kind of unit of observation and depth of your analysis ✅ 👍👍Great for baseline models, just don't forget to add your own touch to your final pipeline, that's what will differentiate your work 💪💪
+
+
+Have you ever used Featuretools? What was your experience? 👇👇👇👇
