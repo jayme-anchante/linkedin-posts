@@ -1,0 +1,7 @@
+~~ nova linguagem de programação ~~
+
+A empresa Empirical Software Solutions abriu o código de sua linguagem de programação - Empirical - voltada para a análise de séries temporais (e todos os exemplos são voltados para finanças e mercado de ações)
+
+Ela tem suporte nativo para data frames, possui uma linguagem SQL-like para selecionar os dados e pra mim uma das principais features é o join por chave não exata: é possível dar join usando um timestamp com uma margem de precisão
+
+Curtiu? Veja o código fonte no GitHub - https://lnkd.in/eGdJ6zK - ou no site oficial - https://lnkd.in/eZc9HAX
