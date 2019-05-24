@@ -1,0 +1,13 @@
+~~   poda de modelos de deep learning    ~~
+
+(aviso: não tem nada a ver com árvore de decisão, random forest, xgboost, lightgbm)
+
+
+
+Em 100% dos casos que eu vejo de uso de deep learning são utilizadas arquiteturas de redes neurais totalmente conectadas (trocando em miúdos, todos os neurônios artificiais estão ligados entre si).
+
+
+Isso deixa o treinamento (momento em que o modelo aprende o que é um gato, cachorro, pessoa sorrindo) do modelo muito intenso computacionalmente, assim como a inferência (hora em que o modelo diz se a foto contém ou não contém um gato, cachorro, pessoa sorrindo), além de que o arquivo que contém o modelo propriamente dito (aka os pesos do modelo) fica muito grande, chegando na casa das centenas de megabytes
+
+
+Muito interessante e útil ver o módulo de otimização do tensorflow (https://www.tensorflow.org/lite/performance/model_optimization), um dos componentes é a poda (exemplificada nesse artigo: https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a) do modelo, ou seja, nem todas as conexões entre os neurônios são necessárias, assim é possível reduzi-las ou eliminá-las sem a perda de performance
