@@ -1,0 +1,21 @@
+SIM, é verdade, MASSS
+
+
+
+
+A grande diferença está na forma pela qual são gerados os "if/elses": na maneira tradicional/determinística o programador deve colocar manualmente 🙋 as regras/ifelses, na maneira algorítmica, os "ifelses" são gerados automaticamente a partir das regras aprendidas pela rede neural 🤖
+
+
+Para os cusiosos de plantão ou os praticantes de deep learning desavisados ou os programadores céticos, explico:
+
+
+Uma rede neural artificial é composta por neurônios artificiais. Os dados de entrada "percorrem" toda a rede neural, inicialmente pela camada entrada (duh), passam por uma ou mais camadas escondidas (o deep vem por causa delas, quanto mais camadas escondidas, mais profunda é a rede), e a predição final "deixa" a rede pela camada de saída 🕸🌐🕸
+
+
+Mas o que exatamente ocorre com os dados "dentro" da rede neural?? 🤔🤔
+
+
+Eles passam pelas transformações dos if/elses!! Explicação técnica: cada neurônio possui uma função de ativação (supondo uma das mais usuais: Rectifier Linear Unit ou ReLU), que nada mais é do que o máximo entre o valor de entrada ou 0 ou ainda "se X for menor que 0, então 0, caso contrário X"
+
+
+E você, concorda ou não concorda? Já sabia desse "segredo"? 😂😂
