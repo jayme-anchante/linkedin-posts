@@ -1,0 +1,29 @@
+   pandas ---> super pandas
+
+
+pandas, uma das libs mais utilizadas para manipulação de dados tabulares, roda tudo em um único core de sua CPU, em conformidade com o GIL do Python
+
+mas às vezes precisamos dar um boost no nosso processamento, utilizando os recursos ociosos da nossa máquina. Uma lib muito simples que faz isso é o pandarallel (https://github.com/nalepae/pandarallel), ela paraleliza as funções apply num pandas.core.DataFrame, com mudanças muito simples:
+
+```
+import pandas as pd
+df = pd.DataFrame(yourData)
+df.apply(func, axis=1)
+
+```
+
+para:
+
+```
+import pandas as pd
+from pandarellel import pandarellel
+
+pandarellel.initialize()
+
+def func(value):
+    new_value = magic_happening
+    return new_value
+
+df = pd.DataFrame(yourData)
+df.parallel_apply(func, axis=1)
+``` 
