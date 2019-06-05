@@ -1,0 +1,11 @@
+Deep fakes
+
+É conhecida a capacidade dos robôs (vulgo AI) de gerar outputs na forma de música, texto, vídeo, imagens, mas uma situação é quando isso está explícito e contextualizado, como no caso do "This Person Doesnt Exist" (https://www.thispersondoesnotexist.com), outra situação é quando o output de um modelo está mascarado entre conteúdo verdadeiro e criado por humanos, como no caso dos Deep Fakes: substituição de rostos de atores em cenas de filmes, em entrevistas de auditório, em propagandas
+
+Estas pessoas podem estar falando coisas que nunca falaram e/ou nunca falariam, em contextos embaraços, controversos, ou ainda participando de vídeos adultos sem sua ciência. Parece às vezes que o temor de companhias como OpenAI são parcialmente genuínas: eles liberaram os pesos de seu modelo GPT-2, capaz de gerar textos conexos e contextualizados, mas não do modelo full, mas sim de modelos menores e menos poderosos
+
+fontes:
+
+https://www.theregister.co.uk/2019/05/28/youtube_deepfakes_channel/
+https://metro.co.uk/2019/05/31/deepfake-porn-ethics-able-watch-whatever-imagination-desires-9526079/
+https://openai.com/blog/better-language-models/
