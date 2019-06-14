@@ -1,0 +1,11 @@
+student will be releasing 1.5B GPT-2 on 1st July
+
+What is GPT-2? It is the latest OpenAI language deep neural network trained on 40GB of Internet text to predict the next word on the corpus, see more on their blog post: https://openai.com/blog/better-language-models/
+
+The controversy: they currently released the 117 and 345 million parameter pre-trained weights of GPT-2, but not the 1.5 billion parameters, claiming it could led to malicious use
+
+Game changing: a student is claiming he trained the full 1.5B GPT-2 and announcing he will be releasing the weights on 1st July, brace yourselves! (https://medium.com/@NPCollapse/gpt2-counting-consciousness-and-the-curious-hacker-323c6639a3a8)
+
+OpenAI GPT-2 source code: https://github.com/openai/gpt-2
+
+Video below: me playing with GPT-2 117M conditional samples 🤖📙👇👇👇
