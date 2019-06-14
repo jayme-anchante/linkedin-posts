@@ -1,0 +1,7 @@
+Have you met BERT?
+
+I'm not talking about Bert from Sesame Street, but Google's BERT - Bidirectional Encoder Representations from Transformers: a new method of pre-training language representations. Paper: https://arxiv.org/abs/1810.04805
+
+Google also released the pre-trained weights of BERT trained on English, Chinese and Multilingual corpora on its GitHub: https://github.com/google-research/bert/
+
+A notebook explaining how to fine tune BERT on the Movielens dataset to predict sentiment can be found at: https://github.com/google-research/bert/blob/master/predicting_movie_reviews_with_bert_on_tf_hub.ipynb
