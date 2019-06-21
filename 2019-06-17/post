@@ -1,0 +1,10 @@
+Transferência de aprendizado e modelos pré-treinados
+
+Transferência de aprendizado (Transfer Learning) ocorre quando utiliza-se o conhecimento adquirido na resolução de um problema para a resolução de outro problema em outro contexto
+
+No caso do Aprendizado Profundo (Deep Learning), foram realizados vários avanços em visão computacional, caso das redes neurais gigantes treinadas em datasets como ImageNet, OpenImages e ajustadas e utilizadas para o reconhecimento de imagens não contidas nas bases originais. Recentemente, temos visto avanços nesse sentido em processamente de linguagem natural, como os modelos BERT da Google e GPT-2 da OpenAI.
+
+Para descobrir outros modelos pré-treinados nos frameworks mais utilizados no mercado, confira os links abaixo:
+
+* Tensorflow Hub: https://www.tensorflow.org/hub/
+* PyTorch Hub: https://pytorch.org/hub
