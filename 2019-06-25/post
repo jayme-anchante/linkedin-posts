@@ -1,0 +1,9 @@
+NLP, GPT-2 e HuggingFace
+
+Hugging Face is doing an amazing job to the open source community. They pre trained the PyTorch implementation of OpenAI GPT-2 and released at the PyTorch Hub (https://pytorch.org/hub).
+
+Also, they made available a free service where you can type any sentence and GPT-2 will suggest 3 sentences to complete it. It is available at https://transformer.huggingface.co
+
+How it was done you may ask? They made a post detailing the technical stuff, especially how they scaled thousands of requests on a single 4-GPU machine with low response times: https://medium.com/huggingface/scaling-a-massive-state-of-the-art-deep-learning-model-in-production-8277c5652d5f
+
+#nlp #openai #huggingface #gpt #ml #ai #prod
