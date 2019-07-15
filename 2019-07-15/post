@@ -1,0 +1,11 @@
+Classifying Legendary Pokemon Birds
+
+
+👉👉👉 Try it yourself: https://legendary-pokebirds.onrender.com/  👈👈👈
+
+After only the second fastai "Practical Deep Learning for Coders" class I was able to complete an end-to-end deep learning project! 🤖🤖🤖
+
+The main goal is to classify an image as either one of the Legendary Pokemon Birds - Articuno, Moltres or Zapdos - or an alternative class which includes everything else. Needless to say that sometimes my model gets confused about the alternative class since not so many diverse images were feed into it...
+
+Source code: https://github.com/jayme-anchante/fastai-v3
+Forked from: https://github.com/render-examples/fastai-v3
