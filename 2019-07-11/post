@@ -1,0 +1,8 @@
+~~  fast.ai  ~~
+
+Recentemente, comecei a fazer o curso do fast.ai "Practical Deep Learning for Coders" (http://course.fast.ai/). O curso, assim como a biblioteca fastai, é bem alto nível. O instrutor e fundador do fast.ai é o Jeremy Howard, fala muito sobre os ex-alunos do curso, aplicações em geral de deep learning, e apresenta a estrutura da bilioteca fastai pontuando as chamadas das funções com comentários, observações e dicas valiosas acumuladas ao longo dos anos de prática.
+
+Coincidentemente, ontem foi o lançamento do curso sobre NLP (ou processamento de linguagem natural), um dos grandes módulos da bilioteca, além da parte de vision (visão computacional) e de tabular (dados tabulares).
+
+
+link do curso de NLP: https://www.fast.ai/2019/07/08/fastai-nlp/
