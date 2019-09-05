@@ -1,0 +1,10 @@
+~~ XLNet ~~
+
+Depois da era dos Muppets  - ELMo, BERT e outros - temos uma nova arquitetura de NLP chamada de XLNet que supera BERT em 20 tarefas e atinge SOTA (estado da arte) em 18.
+
+BERT melhorou em relação aos modelos anteriores introduzindo, entre outros, o aprendizado bidirecional, mas ainda assim existiam gargalos criados pela estratégia de ocultação ([MASK]) de tokens/palavras
+
+A XLNet introduz o conceito de permutações aleatórias entre os token em vez da estratégia de [MASK] de BERT e adiciona uma camada recorrente no seu Transformer XL
+
+Mais informações no paper da rede: https://arxiv.org/abs/1906.08237
+Código: https://github.com/zihangdai/xlnet
