@@ -1,0 +1,9 @@
+ImageNet vai remover 600k imagens da base
+
+Depois do projeto da pesquisadora @Kate Crawford e do artista @Trevor Paglen, em que uma das etapas consistia do público poder fazer upload de suas fotos e ver como um algoritmo treinado no ImageNet a rotularia.
+
+Pessoas asiáticas eram rotuladas como budistas, mulheres brancas como atrativas e sedutoras, homens brancos como economistas.
+
+É inegável que o maior viés de qualquer algoritmo advém dos dados utilizados: se eles tiverem um viés intrínseco alto ou foram rotulados de maneira viesado, qualquer algoritmo herdará estes vieses.
+
+fonte: https://hyperallergic.com/518822/600000-images-removed-from-ai-database-after-art-project-exposes-racist-bias/
