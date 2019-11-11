@@ -1,0 +1,13 @@
+GPT-2 1.5B release
+
+@openai finally released the final 1.5 billion parameters model weights and code
+
+There is still a long way to go through, but GPT2 is beginning to get more credibility from humans, especially compared to the other GPT2 versions
+
+In terms of performance, the 1.B accuracy on the test set is 96% compared to the small 124M model's 79.3%
+
+link: https://openai.com/blog/gpt-2-1-5b-release/
+
+Awaiting upcoming #OpenAI announcements
+
+#deeplearning #gpt2
