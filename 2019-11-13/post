@@ -1,0 +1,12 @@
+Quer aprender R do zero de forma gratuita?
+
+
+Preciso de @udemy, @udacity, @datacamp, @data science academy?
+
+Você pode aprender #R dentro do @R utilizando o pacote swirl!
+
+Após instalar o R no seu computador (https://cran.r-project.org/),
+
+instale o pacote swirl com `install.package("swirl")`, depois invoque a biblioteca com library(swirl).
+
+Finalmente, invoque o comando `swirl()` e bom aprendizado!
